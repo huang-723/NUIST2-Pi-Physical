@@ -1,4 +1,7 @@
 # NUIST Animal Quiz Game in Python3
+# NAME: Huang Yufan
+# ID: 20119455
+# DATE: 2026-3-30
 def quiz():
     print("Welcome to the Animal Quiz!")
     print("Answer the following questions (enter the full name in lowercase):")
