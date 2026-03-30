@@ -1,3 +1,6 @@
+# NAME: Huang Yufan
+# ID: 20119455
+# DATE: 2026-3-30
 import RPi.GPIO as GPIO
 import time
 
